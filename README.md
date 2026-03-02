@@ -1,4 +1,4 @@
-# vue-project
+# vue-vite
 
 Vue 3 + Vite 기반 프런트엔드 프로젝트입니다.
 
@@ -38,3 +38,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+프로젝트 설명: vue-vite frontend
